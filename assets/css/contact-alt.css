@@ -144,7 +144,7 @@ header .nav li:last-child {
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.contacts .contact-box {
+.row-wrap .contact-box {
     background-color: #fff;
     color: #000;
     width: 320px;
@@ -156,20 +156,20 @@ header .nav li:last-child {
     margin: 15px 10px;
     flex: 0 1 auto;
 }
-.contacts .contact-img {
+.row-wrap .contact-img {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
 }
-.contacts h2 {
+.row-wrap h2 {
     margin-bottom: 10px;
 }
-.contacts .contact-quote {
+.row-wrap .contact-quote {
     font-style: italic; 
     margin-bottom: 10px;  
 }
-.contacts .contact-link a {
+.row-wrap .contact-link a {
     text-decoration: underline;
 }
 footer {
